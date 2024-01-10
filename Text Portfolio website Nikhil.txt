@@ -9,9 +9,9 @@ Nikhil Tembhare
 Frontend Developer
 
 .home__social-link
-https://www.linkedin.com/
-https://github.com/
-https://dribbble.com/
+https://www.linkedin.com/in/nikhil-tembhare/
+https://github.com/nikhiltembhareai/
+https://www.instagram.com/nikhiltembhare20/
 
 .home__scroll-name
 Scroll Down
